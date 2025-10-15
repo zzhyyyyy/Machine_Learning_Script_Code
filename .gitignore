@@ -1,0 +1,11 @@
+# 忽略掉python自身的一些文件
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# 虚拟环境文件
+.venv
+data/
